@@ -1,0 +1,16 @@
+name: live_coding
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+  flutter: ">=3.10.6"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  lint: ^2.1.2
