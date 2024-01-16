@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:live_coding/src/container.dart';
-import 'package:live_coding/src/test.dart';
+import 'package:live_coding/src/app/container.dart';
+import 'package:live_coding/src/challenge.dart';
 
 final class LiveCodingHome extends StatelessWidget {
   const LiveCodingHome({super.key});

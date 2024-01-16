@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:live_coding/src/home.dart';
+import 'package:live_coding/src/app/home.dart';
 
 final class LiveCodingApp extends StatelessWidget {
   const LiveCodingApp({super.key});
