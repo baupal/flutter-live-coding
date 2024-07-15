@@ -7,15 +7,15 @@ final class LiveCodingHome extends StatelessWidget {
 
   static const _children = [
     LiveCodingContainer(
-      width: 300,
+      dimension: 300,
       color: Colors.red,
     ),
     LiveCodingContainer(
-      width: 200,
+      dimension: 200,
       color: Colors.blue,
     ),
     LiveCodingContainer(
-      width: 100,
+      dimension: 100,
       color: Colors.purple,
     ),
   ];
